@@ -1,3 +1,4 @@
 PROJECT_LOG.md
 .env
 .venv
+/__pycache__
