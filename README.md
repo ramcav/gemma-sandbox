@@ -3,9 +3,9 @@ Function Calling Sandbox for Gemma Models (GSoC - DeepMind project)
 
 ## Overview
 
-In this project I attempt to create a sandbox environment for testing function calling capabilities of Gemma models using MCP servers and a local gemma instance running with Ollama. The idea is for this porject to be built very moudularly so that it can be extended to support other models and use cases in the future.
+In this project I attempt to create a sandbox environment for testing function calling capabilities of Gemma models using MCP servers and a local gemma instance running with Ollama. The idea is for this project to be built very moudularly so that it can be extended to support other models and use cases in the future.
 
-The mian use case I want to focus on is "Crisis Response" where the model can be used to assist in decision making during crisis situations by calling functions that provide real-time data and insights, and also serving as a **Universal Translator for Intent**, allowing the model to understand and translate user intents into actionable functions.
+The main use case I want to focus on is "Crisis Response" where the model can be used to assist in decision making during crisis situations by calling functions that provide real-time data and insights, and also serving as a **Universal Translator for Intent**, allowing the model to understand and translate user intents into actionable functions.
 
 ## Visualizing the Sandbox's Utility
 
