@@ -1,15 +1,10 @@
 # Gemma Function-Calling Sandbox
 
 
-A sandbox environment for testing the function-calling capabilities of local and online Gemma models. This project serves as a **Universal Translator for Intent**, transforming natural language requests into actionable, programmatic functions.
+In this project I attempt to create a sandbox environment for testing function calling capabilities of Gemma models using MCP servers and a local gemma instance running with Ollama. The idea is for this project to be built very moudularly so that it can be extended to support other models and use cases in the future.
 
-## Features
+The main use case I want to focus on is "Crisis Response" where the model can be used to assist in decision making during crisis situations by calling functions that provide real-time data and insights, and also serving as a **Universal Translator for Intent**, allowing the model to understand and translate user intents into actionable functions.
 
--   🔄 **Dual Model Support:** Seamlessly switch between local models running via Ollama and powerful online models from Google AI Studio.
--   🛠️ **Dynamic Tool Management:** Easily add and manage custom functions and MCP (Model-Context-Protocol) servers on the fly.
--   🎛️ **Granular Tool Control:** A multi-select menu allows you to grant the model access to specific tools for a given session.
--   🔍 **Transparent Execution:** Clearly track the model's reasoning, function calls, and responses in a user-friendly chat interface.
--   ✨ **Simple & Extensible UI:** Built with Streamlit for rapid iteration, providing a clear view of the model's interactions.
 
 ## Visualizing the Sandbox's Utility
 
