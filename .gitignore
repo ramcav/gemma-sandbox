@@ -1,4 +1,6 @@
 PROJECT_LOG.md
+CONTEXT.md
 .env
 .venv
-/__pycache__
+__pycache__
+logs/crisis_response.log

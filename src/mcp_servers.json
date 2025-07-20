@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "fetch": {
-      "command": "node",
-      "args": ["/Users/rorosaga/Documents/GSoC/fetch-mcp/dist/index.js"]
-    }
-  }
-}
